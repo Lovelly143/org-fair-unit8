@@ -1,6 +1,6 @@
-# org_fair
+# CICT Org Fair
 
-A new Flutter project.
+Live web app: https://lovelly143.github.io/org-fair-unit8/
 
 ## Getting Started
 
